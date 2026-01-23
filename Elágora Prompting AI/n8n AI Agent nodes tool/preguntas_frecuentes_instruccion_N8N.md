@@ -1,2 +1,0 @@
-Esta herramienta permite consultar información oficial y actualizada sobre el proyecto inmobiliario Edificio LUMINA, incluyendo detalles comerciales, especificaciones técnicas, ubicación, cronograma, opciones de financiamiento e inventario de departamentos disponibles. Úsala cuando necesites responder preguntas específicas sobre cualquier aspecto de este proyecto inmobiliario.
-
